@@ -5,11 +5,11 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: She/Her They/Them
 - ⚡ Fun facts about me:
-  Cats and owls are my fav animals.
+  Cats and owls are my fav animals,
   I think Yandere Simulator is a shitty game (and YandereDev is one of the worst game developers to ever exist),
-  I like collecting gemstones and rocks sometimes.
+  I like collecting gemstones and rocks sometimes,
   Gardevoir is my fav Pokemon (I'm not one of those horny morons, fuck you if you think that)
-  Espeon and Umbreon are my fav eeveelutions.
+  and Espeon and Umbreon are my fav eeveelutions.
 
 <!---
 CutestCams/CutestCams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

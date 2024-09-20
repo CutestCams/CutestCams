@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CutestCams, a coding student wanting to learn how to code properly.
+- 👋 Hi, I’m @CutestCams, a coding student wanting/willing to learn how to code properly.
 - 👀 I’m interested in learning on how to draw and animate, because I want to make a passion project of my own someday that I want others to enjoy too (but mainly cause my art and animating skills suck) 
 - 🌱 I’m currently learning on how the basic mechanics of how a game should work and how not to write crappy chracters (smth that YandereDev can't do)
 - 💞️ I’m looking to collaborate on ...

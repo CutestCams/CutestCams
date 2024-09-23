@@ -9,7 +9,7 @@
   I think Yandere Simulator is a shitty game (and YandereDev is one of the worst game developers to ever exist),
   I like collecting gemstones and rocks sometimes,
   Gardevoir is my fav Pokemon (I'm not one of those horny morons, fuck you if you think that)
-  and Espeon and Umbreon are my fav eeveelutions.
+  and Espeon is my fav eeveelution.
 
 <!---
 CutestCams/CutestCams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
